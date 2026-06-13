@@ -4,9 +4,9 @@ I'm **looka708**! Welcome to my GitHub profile.
 
 ## 📊 GitHub Metrics
 
-![Metrics](https://raw.githubusercontent.com/looka708/looka708/main/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/looka708?template=classic&base=header,activity,community,repositories,metadata&config_timezone=Asia/Karachi&plugin_isocalendar=yes&plugin_isocalendar_duration=half-year&plugin_languages=yes&plugin_languages_ignored=html,css&plugin_languages_details=bytes-size,percentage&plugin_languages_sections=most-used)
 
-*(These metrics are automatically updated daily using [lowlighter/metrics](https://github.com/lowlighter/metrics) GitHub Action)*
+*(These metrics are automatically generated on-the-fly using the [lowlighter/metrics web instance](https://metrics.lecoq.io/))*
 
 ---
 
@@ -14,7 +14,6 @@ I'm **looka708**! Welcome to my GitHub profile.
 
 If you haven't already:
 1. Create a repository named `looka708/looka708`.
-2. Push these files (`README.md` and `.github/workflows/metrics.yml`) to the `main` branch.
-3. Go to **Settings > Developer settings > Personal access tokens > Tokens (classic)** in GitHub and generate a token with `repo` and `read:user` scopes.
-4. Go to this repository's **Settings > Secrets and variables > Actions** and add a New repository secret named `METRICS_TOKEN` with the value of your generated token.
-5. Go to the **Actions** tab in this repository, click on **Metrics**, and click **Run workflow** to generate your first SVG!
+2. Push this `README.md` file to the `main` branch.
+
+That's it! Since you are using the web instance, you do not need any tokens or GitHub Actions to make this work.
