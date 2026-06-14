@@ -17,7 +17,7 @@
 
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
-<img src="images/Sakayanagi.png" height="97%" width="97%" align="center" alt="Ayanokoji themed profile image" />
+<img src="images/banner.png" height="97%" width="97%" align="center" alt="Ayanokoji themed profile image" />
 <!--END_SECTION:update_image-->
 </a>
 
