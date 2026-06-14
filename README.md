@@ -115,7 +115,7 @@ Fav_Subject: Human Psychology, Algorithmic Logic
 
 <div align="center"> 👀 </div>
 
-| ![](![Metrics](https://metrics.lecoq.io/Looka-info?template=classic&isocalendar=1&languages=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&config.timezone=Asia%2FKarachi)) | ![](/assets/right.svg) |
+| ![](left.svg) ![](right.svg)
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 
 <div align="center">
@@ -123,13 +123,6 @@ Fav_Subject: Human Psychology, Algorithmic Logic
         <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E7%8B%82%E4%B9%B1%E3%81%8C%E5%A7%8B%E3%81%BE%E3%81%A3%E3%81%9F%E3%80%82&l0=000000&l1=c00785&l2=760878&l3=5d41aa&l4=3511b6&bg=030303&frame=b8a8a8&speed=188">
   </a>
 </div>
-
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-<h3 align="left">🔥 Statisitics</h3>
-
-  
-![snake gif](https://raw.githubusercontent.com/looka-info/looka-info/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
     <a href="https://git.io/streak-stats">
@@ -147,15 +140,6 @@ Fav_Subject: Human Psychology, Algorithmic Logic
 
 </div>
 
-<!--START_SECTION:waka-->
-
-```python
-From: 05 June 2026 - To: 12 June 2026
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 ###
 
@@ -231,12 +215,3 @@ No activity tracked
 [Vercel]: https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white
 [Raspberry Pi]: https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi
 [Zigbee]: https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white
-=======
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:7f0000,100:ff0000&height=220&section=header&text=Muhammad%20Umer&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Anime%20UI%20Builder%20%7C%20Cloud%20Enthusiast&descAlignY=58&descSize=16" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=FF3131&center=true&vCenter=true&width=800&lines=Code+like+a+developer.;Think+like+a+creator.;Move+like+an+anime+protagonist.;Building+websites%2C+APIs%2C+SaaS+and+3D+experiences." />
-</p>
-
