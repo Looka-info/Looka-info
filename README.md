@@ -113,10 +113,9 @@ Fav_Subject: Human Psychology, Algorithmic Logic
   
 </div>
 
-<div align="center">
-  <img src="assets/left.svg">
-  <img src="assets/right.svg">
-</div>
+<div align="center"> 👀 </div>
+
+| ![](assets/left.svg) ![](assets/right.svg)
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 
 <div align="center">
@@ -144,7 +143,7 @@ Fav_Subject: Human Psychology, Algorithmic Logic
 ###
 
 <div align="center">
-  <img src="assets/gif.gif" height="400">
+  <img src="assets/gif.gif" height="450">
 </div>
 
 <br clear="both">
