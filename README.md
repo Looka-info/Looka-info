@@ -115,8 +115,9 @@ Fav_Subject: Human Psychology, Algorithmic Logic
 
 <div align="center"> 👀 </div>
 
-| ![](assets/left.svg) ![](assets/right.svg)
-| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+|  |  |
+| :--- | ---: |
+| <img src="assets/left.svg" width="250" align="left" /> | <img src="assets/right.svg" width="250" align="right" /> |
 
 <div align="center">
   <a href="https://github.com/kawarimidoll/typograssy">
