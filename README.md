@@ -1,11 +1,3 @@
-&nbsp;<img src="https://visitor-badge.laobi.icu/badge?page_id=looka-info.looka-info&left_text=Class%20D%20Observers&left_color=black&right_color=red"/>
-
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=127&text=Classroom%20of%20Strategy&section=header&reversal=false&animation=twinkling&rotate=2&fontAlign=49&fontColor=eb0000&fontSize=65&descAlign=59&stroke=4E0CC7&textBg=false&strokeWidth=2&color=0:080808,50:240018,70:3d0b2f,100:561fea"/>
-
-</div>
-
 <div>
   <h3 align="center">"私、ルカ（綾小路清隆）が"</h3>
   <h3 align="center">実力至上主義の教室へようこそ。</h3>
@@ -15,7 +7,7 @@
 
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
-<img src="images/banner.png" height="97%" width="97%" align="center" alt="Ayanokoji themed profile image" />
+<img src="images/banner.jpg" height="97%" width="97%" align="center" alt="Ayanokoji themed profile image" />
 <!--END_SECTION:update_image-->
 </a>
 
@@ -25,7 +17,7 @@
 
 <h2> About 私自身 </h2>
 
-<img align="left" src="images/ayanokoji.webp" width="35%"/>
+<img align="left" src="images/main.png" width="35%"/>
 
 ```cpp
 Profile Version: 4.0
