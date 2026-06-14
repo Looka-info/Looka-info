@@ -90,14 +90,14 @@ Fav_Subject: Human Psychology, Algorithmic Logic
 
 ![][Docker] ![][MongoDB] ![][nVIDIA] ![][React]  ![][TailwindCSS] ![][Vercel] ![][Raspberry Pi] ![][Zigbee]
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=looka-info&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/looka-info/kuro.live)
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=looka-info&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/looka-info/Looki---)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/looka-info/kuro.live)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/looka-info/Looki---)
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 <h3> 🔬 Currently Working on: </h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=looka-info&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/looka-info/makhlooq)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/looka-info/makhlooq)
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
@@ -115,8 +115,8 @@ Fav_Subject: Human Psychology, Algorithmic Logic
 
 <div align="center"> 👀 </div>
 
-| ![](left.svg) ![](right.svg)
-| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| ![](assets/left.svg) ![](assets/right.svg)
+
 
 <div align="center">
   <a href="https://github.com/kawarimidoll/typograssy">
