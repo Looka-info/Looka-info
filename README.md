@@ -143,7 +143,7 @@ Fav_Subject: Human Psychology, Algorithmic Logic
 ###
 
 <div align="center">
-  <img src="assets/gif.gif" height="300">
+  <img src="assets/gif.gif" height="400">
 </div>
 
 <br clear="both">
