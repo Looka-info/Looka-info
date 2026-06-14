@@ -7,7 +7,7 @@
 
 <a href="https://github.com/marketplace/actions/update-image-readme">
 <!--START_SECTION:update_image-->
-<img src="images/banner.jpg" height="97%" width="97%" align="center" alt="Ayanokoji themed profile image" />
+<img src="images/banner.png" height="97%" width="97%" align="center" alt="Ayanokoji themed profile image" />
 <!--END_SECTION:update_image-->
 </a>
 
@@ -17,7 +17,7 @@
 
 <h2> About 私自身 </h2>
 
-<img align="left" src="images/main.png" width="35%"/>
+<img align="left" src="images/main.jpg" width="35%"/>
 
 ```cpp
 Profile Version: 4.0
