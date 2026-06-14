@@ -113,11 +113,9 @@ Fav_Subject: Human Psychology, Algorithmic Logic
   
 </div>
 
-<div align="left">
-  <img src="assets/left.svg" height="300">
-</div>
-<div align="right">
-  <img src="assets/right.svg" height="300">
+<div align="center">
+  <img src="assets/left.svg">
+  <img src="assets/right.svg">
 </div>
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 
