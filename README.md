@@ -90,7 +90,7 @@ Fav_Subject: Human Psychology, Algorithmic Logic
 
 ![][Docker] ![][MongoDB] ![][nVIDIA] ![][React]  ![][TailwindCSS] ![][Vercel] ![][Raspberry Pi] ![][Zigbee]
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=looka-info&repo=kuro-live)](https://github.com/looka-info/kuro.live)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=looka-info&repo=kuro.live)](https://github.com/looka-info/kuro.live)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=looka-info&repo=looki---)](https://github.com/looka-info/Looki---)
 
 <!--📏LINE-->
@@ -113,9 +113,12 @@ Fav_Subject: Human Psychology, Algorithmic Logic
   
 </div>
 
-<div align="center"> 👀 </div>
-
-| ![](assets/left.svg) ![](assets/right.svg)
+<div align="left">
+  <img src="assets/left.svg">
+</div>
+<div align="right">
+  <img src="assets/right.svg">
+</div>
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 
 <div align="center">
