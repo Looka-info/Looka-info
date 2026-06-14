@@ -50,7 +50,7 @@ Fav_Subject: Human Psychology, Algorithmic Logic
 ```
 
 <!--📏LINE-->
-<img src="assets/blackmirror.gif" height="25" width="100%">
+<img src="assets/hazard.gif" height="25" width="100%">
 
 <h3 align="left">🛠 Language and Tools</h3>
 
@@ -61,7 +61,7 @@ Fav_Subject: Human Psychology, Algorithmic Logic
 
 </div>
 <!--📏LINE-->
-<img src="assets/blackthornyroses.gif" height="25" width="100%">
+<img src="assets/hazard.gif" height="25" width="100%">
 <h3>🔍 私の拠点</h3>
 
 <div>
@@ -73,7 +73,7 @@ Fav_Subject: Human Psychology, Algorithmic Logic
 </div>
 
 <!--📏LINE-->
-<img src="assets/blackthornyroses.gif" height="25" width="100%">
+<img src="assets/hazard.gif" height="25" width="100%">
 <h3>🤖 AI/ML の 仕組み</h3>
 
 <div>
@@ -85,7 +85,7 @@ Fav_Subject: Human Psychology, Algorithmic Logic
 </div>
 
 <!--📏LINE-->
-<img src="assets/blackthornyroses.gif" height="25" width="100%">
+<img src="assets/hazard.gif" height="25" width="100%">
 <h3>🚧 Work in Progress</h3>
 
 ![][Docker] ![][MongoDB] ![][nVIDIA] ![][React]  ![][TailwindCSS] ![][Vercel] ![][Raspberry Pi] ![][Zigbee]
@@ -95,13 +95,13 @@ Fav_Subject: Human Psychology, Algorithmic Logic
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=looka-info&repo=looki---&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000)](https://github.com/looka-info/Looki---)
 
 <!--📏LINE-->
-<img src="assets/blackthornyroses.gif" height="25" width="100%">
+<img src="assets/hazard.gif" height="25" width="100%">
 <h3> 🔬 Currently Working on: </h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=looka-info&repo=makhlooq&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000)](https://github.com/looka-info/makhlooq)
 
 <!--📏LINE-->
-<img src="assets/blackthornyroses.gif" height="25" width="100%">
+<img src="assets/hazard.gif" height="25" width="100%">
 <h3>📈 My Grinds </h>
 
 ###
