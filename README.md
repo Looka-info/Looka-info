@@ -1,6 +1,6 @@
 <div>
-  <h3 align="center">"私、ルカ（綾小路清隆）が"</h3>
-  <h3 align="center">実力至上主義の教室へようこそ。</h3>
+  <h3 align="center">"こんにちは、私はルカです。"</h3>
+  <h3 align="center">よろしくお願いします。</h3>
 </div>
 
 <div align="center">
