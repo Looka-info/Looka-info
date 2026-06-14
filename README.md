@@ -126,7 +126,8 @@ Fav_Subject: Human Psychology, Algorithmic Logic
 
 <div align="center">
 
-    [![GitHub Streak](https://streak-stats.demolab.com?user=looka-info&theme=dark&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=looka-info&theme=dark&short_numbers=true)](https://git.io/streak-stats)
+
 </div>
 ###
 
