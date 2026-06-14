@@ -125,9 +125,9 @@ Fav_Subject: Human Psychology, Algorithmic Logic
 </div>
 
 <div align="center">
+
     [![GitHub Streak](https://streak-stats.demolab.com?user=looka-info&theme=dark&short_numbers=true)](https://git.io/streak-stats)
 </div>
-
 ###
 
 [![looka-info's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=looka-info&bg_color=000000&color=bb00ff&line=ea1a25&point=960bbc&area=true&hide_border=true)](https://github.com/looka-info)
