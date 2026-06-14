@@ -90,15 +90,15 @@ Fav_Subject: Human Psychology, Algorithmic Logic
 
 ![][Docker] ![][MongoDB] ![][nVIDIA] ![][React]  ![][TailwindCSS] ![][Vercel] ![][Raspberry Pi] ![][Zigbee]
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=looka-info&repo=kuro.live&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000)](https://github.com/looka-info/kuro.live)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=looka-info&repo=kuro.live&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=b8b8b8&border_color=666666)](https://github.com/looka-info/kuro.live)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=looka-info&repo=looki---&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000)](https://github.com/looka-info/Looki---)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=looka-info&repo=looki---&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=b8b8b8&border_color=666666)](https://github.com/looka-info/Looki---)
 
 <!--📏LINE-->
 <img src="assets/piano.gif" height="25" width="100%">
 <h3> 🔬 Currently Working on: </h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=looka-info&repo=makhlooq&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000)](https://github.com/looka-info/makhlooq)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=looka-info&repo=makhlooq&bg_color=000000&title_color=ffffff&text_color=c9c9c9&icon_color=b8b8b8&border_color=666666)](https://github.com/looka-info/makhlooq)
 
 <!--📏LINE-->
 <img src="assets/piano.gif" height="25" width="100%">
@@ -122,18 +122,18 @@ Fav_Subject: Human Psychology, Algorithmic Logic
 
 <div align="center">
   <a href="https://github.com/kawarimidoll/typograssy">
-        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E7%8B%82%E4%B9%B1%E3%81%8C%E5%A7%8B%E3%81%BE%E3%81%A3%E3%81%9F%E3%80%82&l0=000000&l1=c00785&l2=760878&l3=5d41aa&l4=3511b6&bg=030303&frame=b8a8a8&speed=188">
+        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E7%8B%82%E4%B9%B1%E3%81%8C%E5%A7%8B%E3%81%BE%E3%81%A3%E3%81%9F%E3%80%82&l0=000000&l1=2b2b2b&l2=555555&l3=8a8a8a&l4=e5e5e5&bg=030303&frame=b8b8b8&speed=188">
   </a>
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=looka-info&theme=dark&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=looka-info&theme=dark&background=000000&border=666666&stroke=666666&ring=ffffff&fire=b8b8b8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=c9c9c9&dates=8a8a8a&hide_border=false&short_numbers=true)](https://git.io/streak-stats)
 
 </div>
 ###
 
-[![looka-info's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=looka-info&bg_color=000000&color=bb00ff&line=ea1a25&point=960bbc&area=true&hide_border=true)](https://github.com/looka-info)
+[![looka-info's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=looka-info&bg_color=000000&color=c9c9c9&line=ffffff&point=8a8a8a&area=true&hide_border=true)](https://github.com/looka-info)
 
 <div align="center">
 
@@ -151,12 +151,12 @@ Fav_Subject: Human Psychology, Algorithmic Logic
 <br clear="both">
 <div align="center">
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bomadha&weight=200&size=35&duration=3000&pause=740&color=621DF7&center=true&width=868&height=70&lines=All%20people%20are%20nothing%20but%20tools.;Winning%20is%20everything.;I%20only%20reveal%20what%20I%20want%20you%20to%20see." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bomadha&weight=200&size=35&duration=3000&pause=740&color=E5E5E5&center=true&width=868&height=70&lines=All%20people%20are%20nothing%20but%20tools.;Winning%20is%20everything.;I%20only%20reveal%20what%20I%20want%20you%20to%20see." alt="Typing SVG" /></a>
 
 </div>
 
 <div>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=127&text=さようなら、またね&section=footer&reversal=false&animation=twinkling&rotate=-2&fontAlign=49&fontColor=eb0000&fontSize=65&descAlign=59&stroke=4E0CC7&textBg=false&strokeWidth=2&textBg=false&color=0:eb0000,50:1f4eea,70:3d22ef,100:#561fea"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=127&text=さようなら、またね&section=footer&reversal=false&animation=twinkling&rotate=-2&fontAlign=49&fontColor=ffffff&fontSize=65&descAlign=59&stroke=b8b8b8&textBg=false&strokeWidth=2&textBg=false&color=0:000000,50:333333,70:777777,100:e5e5e5"/>
 </div>
 
 
