@@ -27,7 +27,7 @@
 
 <h2> About 私自身 </h2>
 
-<img align="left" src="images/Sakayanagi.png" width="35%"/>
+<img align="left" src="images/ayanokoji.webp" width="35%"/>
 
 ```cpp
 Profile Version: 4.0
