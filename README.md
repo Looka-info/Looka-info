@@ -27,42 +27,15 @@ Level: 067
 Codename: looka-info (ルカ・インフォ)
 Identity: The Faceless Observer
 Username: looka-info (ルカ・インフォ)
-
 WhoamI: Frontend Engineer & Digital Designer
-        (フロントエンドエンジニア & デジタルデザイナー)
 
-OS: Windows 11 Pro [64-bit] , Linux
-Shell: PowerShell v7.x
-Terminal: Visual Studio Code
-
-Location: Pakistan (パキスタン)
-Education: Advanced Nurturing High School, Class D (高度育成高等学校)
-
-Visual State:
-  - Face concealed
-  - Eye awakened
-  - Mind unreadable
-  - Presence silent
-
-Interests:
-  - Frontend Engineering (React, Next.js, WebGL)
-  - UI/UX & Digital Product Design
-  - Discord Bot Development
-  - Open-Source Customizations
-  - Interface Systems & Visual Control
-
-Hobbies: Coding, Analyzing Systems, Chess
-Learning: Three.js, Canvas, Advanced Animation, Dev Server Scalability
-Languages: JS, TS, Python, HTML/CSS
 Fav_Subject: Human Psychology, Algorithmic Logic
-
 Personality:
   - Quiet by design
   - Observant by nature
   - Calculated under pressure
   - Emotion hidden behind static
   - Every move has a reason
-
 -------------
 "I do not need a face to be seen.
 I do not need a voice to be understood.
