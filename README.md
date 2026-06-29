@@ -128,15 +128,6 @@ The rest is only a matter of time.
 [![GitHub Streak](https://streak-stats.demolab.com?user=looka-info&theme=dark&background=000000&border=666666&stroke=666666&ring=ffffff&fire=b8b8b8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=c9c9c9&dates=8a8a8a&hide_border=false&short_numbers=true)](https://git.io/streak-stats)
 
 </div>
-###
-
-[![looka-info's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=looka-info&bg_color=000000&color=c9c9c9&line=ffffff&point=8a8a8a&area=true&hide_border=true)](https://github.com/looka-info)
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=looka-info&theme=github_dark)
-
-</div>
 
 
 ###
