@@ -25,21 +25,25 @@ Profile Version: 4.0
 Level: 067
 -----------
 Codename: looka-info (ルカ・インフォ)
-Identity: The Faceless Observer
+Identity: The Fool
 Username: looka-info (ルカ・インフォ)
 WhoamI: Frontend Engineer & Digital Designer
 
-Fav_Subject: Human Psychology, Algorithmic Logic
+Fav_Subject: 
+• Human Psychology
+• Algorithmic Logic
+• Behavioral Analysis
+• Pattern Recognition
+• Cognitive Science
 Personality:
-  - Quiet by design
-  - Observant by nature
-  - Calculated under pressure
-  - Emotion hidden behind static
-  - Every move has a reason
+• Time reveals all.
 -------------
-"I do not need a face to be seen.
-I do not need a voice to be understood.
-I watch, I calculate, I move only when the result is certain."
+Observe.
+Understand.
+Adapt.
+
+The rest is only a matter of time.
+
 ```
 
 <!--📏LINE-->
