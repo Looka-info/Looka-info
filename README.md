@@ -8,10 +8,6 @@ Building high-performance interfaces, intelligent systems, multimodal workflows,
 
 </div>
 
-<p align="center">
-  <img src="./looka-header.png" alt="Looka header" width="100%">
-</p>
-
 ---
 
 ## About
