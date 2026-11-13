@@ -1,16 +1,30 @@
-# Hi, I'm Looka 👋
+# Hi, I'm Muhammad Umer (Looka) 👋
 
-### AI / Machine Learning Engineer
+### Full-Stack Engineer — React · Next.js · TypeScript
 
-I build end-to-end machine learning systems: leak-free data pipelines, rigorous evaluation, and production-ready serving. I care about honest metrics, strong baselines, and documenting what doesn't work.
+I build production web applications end to end — UI, APIs, database, deployment — with React, Next.js and TypeScript. 50+ projects shipped for clients in the US and on global projects connected to Australia. I also build AI/ML systems and AI products.
+
+**Open to Frontend / Full-Stack Engineer roles in Lahore** — available to join from mid-December 2026.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mumer.info-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://mumer.info)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mumerinfo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mumerinfo/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 
 ---
 
 ## Featured Projects
+
+### 📦 [DemandCast: Production ML Forecasting System](https://github.com/Looka-info/Production-ML-forecasting-system)
+`FastAPI` `MLflow` `Docker` `LightGBM` `GitHub Actions`
+
+Weekly demand forecasting across 15,053 product–warehouse series (VN1 benchmark) and UCI Online Retail II.
+
+- Chronological backtesting with 13-week horizons; official VN1 benchmark reproduced
+- Versioned model registry with atomic release pointer and rollback
+- FastAPI serving with drift, bias and data-freshness monitoring
+- Shadow-forecasting pipeline: candidate vs production on identical inputs, with failure isolation
+- CI with linting and tests; documented finding that tuned baselines beat LightGBM on validation
+
+---
 
 ### 🌿 [PlantVision: Plant Leaf Disease Classifier](https://github.com/Looka-info/Computer-vision-classifier)
 `PyTorch` `ResNet-18` `Transfer Learning` `Streamlit`
@@ -32,20 +46,28 @@ Logistic Regression, Random Forest and Gradient Boosting compared on the IBM Tel
 - Decision thresholds tuned on expected campaign value, with sensitivity analysis across business scenarios
 - SQL cross-verification, interactive Streamlit dashboard, 38 automated tests
 
-### 📦 [DemandCast: Production ML Forecasting System](https://github.com/Looka-info/Production-ML-forecasting-system)
-`FastAPI` `MLflow` `Docker` `LightGBM` `GitHub Actions`
-
-Weekly demand forecasting across 15,053 product–warehouse series (VN1 benchmark) and UCI Online Retail II.
-
-- Chronological backtesting with 13-week horizons; official VN1 benchmark reproduced
-- Versioned model registry with atomic release pointer and rollback
-- FastAPI serving with drift, bias and data-freshness monitoring
-- Shadow-forecasting pipeline: candidate vs production on identical inputs, with failure isolation
-- CI with linting and tests; documented finding that tuned baselines beat LightGBM on validation
-
 ---
 
+## Shipped Products & Platforms
+
+- **ZehniAI** — AI SaaS product (completed)
+- **Akatsuki** — esports / anime platform (completed)
+- **Annie** — completed product
+- **Passion Academia** — academy learning platform ([passionacademia.ac.pk](https://passionacademia.ac.pk)), plus its Android app on Google Play
+- **KMHQ** — official website for Khalai Makhlooq, an elite Star Citizen organization, built with Next.js ([kmhq.org](https://kmhq.org))
+- **Venta** — a programming language built from scratch: own compiler and toolchain in Rust, native x86-64 backend, self-hosted compiler ([Looka-info/Venta](https://github.com/Looka-info/Venta)). Also VentaNext, a full-stack SSR framework in pure Venta, and `std::gpu` GPU acceleration.
+- **AI Exam-Paper Generator** — built and sold to paying academy customers in Pakistan
+- Also building: mist — C++ game-streaming
+
 ## Skills
+
+**Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML/CSS
+
+**Backend & Data:** Node.js · Express.js · Supabase · PostgreSQL · MongoDB · REST APIs
+
+**Payments:** Stripe · PayPal integration
+
+**Workflow:** AI-assisted development — Claude Code (2 years) + Google Antigravity
 
 **Machine Learning:** PyTorch · TensorFlow · Keras · scikit-learn · LightGBM · Hugging Face
 
@@ -53,9 +75,13 @@ Weekly demand forecasting across 15,053 product–warehouse series (VN1 benchmar
 
 **MLOps & Serving:** FastAPI · Streamlit · MLflow · Docker · GitHub Actions · pytest · Ruff
 
-**Also:** JavaScript · React · HTML/CSS · C/C++ · Git · Figma
-
 <p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
@@ -69,7 +95,6 @@ Weekly demand forecasting across 15,053 product–warehouse series (VN1 benchmar
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
@@ -98,10 +123,11 @@ Weekly demand forecasting across 15,053 product–warehouse series (VN1 benchmar
 
 ## Currently
 
+- Applying for Frontend / Full-Stack Engineer roles in Lahore — available from mid-December 2026
 - Extending PlantVision with a FastAPI + Docker serving layer
 - Adding probability calibration and uplift modeling to the churn project
 - Learning LLM applications and retrieval-augmented generation (RAG)
 
 ## Get in Touch
 
-Open to collaboration and ML engineering opportunities. Reach me via [LinkedIn](https://www.linkedin.com/in/mumerinfo/) or [mumer.info](https://mumer.info).
+Open to Full-Stack / Frontend Engineer roles in Lahore, and to ML engineering opportunities. Reach me via [LinkedIn](https://www.linkedin.com/in/mumerinfo/) or [mumer.info](https://mumer.info).
